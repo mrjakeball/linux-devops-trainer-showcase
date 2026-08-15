@@ -104,4 +104,4 @@ Exercise logic is separated from the interface and can be checked independently.
 
 <p align="center">
   <a href="https://github.com/mrjakeball"><strong>GitHub profile ↑</strong></a>
-</p></p>
+</p>
