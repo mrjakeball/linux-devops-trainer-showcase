@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Linux and DevOps Trainer</title>
+  <desc id="desc">Cyan and indigo terminal banner for a Linux learning tool</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071016"/><stop offset="1" stop-color="#111B3D"/></linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#155E75" opacity=".24"/></pattern>
+  </defs>
+  <rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="260" rx="18" fill="url(#grid)"/>
+  <g transform="translate(760 62)" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+    <rect width="375" height="148" rx="10" fill="#050B10" stroke="#164E63" stroke-width="2"/>
+    <circle cx="22" cy="20" r="4" fill="#22D3EE"/><circle cx="38" cy="20" r="4" fill="#6366F1"/><circle cx="54" cy="20" r="4" fill="#334155"/>
+    <text x="24" y="62" fill="#67E8F9" font-size="17">$ trainer open linux/files</text>
+    <text x="24" y="92" fill="#94A3B8" font-size="15">practice mode · guided scenarios</text>
+    <text x="24" y="122" fill="#A5B4FC" font-size="17">&gt; practice_</text>
+    <rect x="140" y="105" width="9" height="20" fill="#22D3EE"><animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></rect>
+  </g>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+    <text x="54" y="52" fill="#7693A3" font-size="15" letter-spacing="3">LEARNING TOOL · THEORY / TERMINAL / LABS</text>
+    <text x="54" y="118" fill="#F1F5F9" font-size="39" font-weight="700">LINUX &amp; DEVOPS</text>
+    <text x="54" y="160" fill="#67E8F9" font-size="30" font-weight="600">TRAINER</text>
+  </g>
+  <rect x="1" y="1" width="1198" height="258" rx="17" fill="none" stroke="#164E63" stroke-width="2"/>
+</svg>
