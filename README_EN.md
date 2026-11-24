@@ -19,9 +19,11 @@ A scenario interpreter processes input and updates the exercise state without op
 
 Exercise logic is separate from the Streamlit interface. Theory, the glossary, quizzes and hands-on scenarios share one navigation menu. Progress in the mobile screenshot belongs to a demonstration profile.
 
-## Original images
+## Inside the filesystem lesson
 
-[Filesystem lesson](assets/screen-topic-desktop.jpg) · [Demo learner profile](assets/screen-home-mobile.jpg)
+**[Lesson material](assets/screen-topic-desktop.jpg)** · The page introduces the filesystem and the standard Linux directories. The top navigation leads to exercises and quizzes.
+
+**[Returning to the trainer](assets/screen-home-mobile.jpg)** · The home view shows progress for the demo profile, giving the learner a starting point for the next session.
 
 <details>
 <summary>View the gallery</summary>
